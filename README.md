@@ -15,4 +15,7 @@
  
  3. three
  # Display data as bold
-*hello world*
+**hello world**
+
+# Display data as italic
+*aliet*
