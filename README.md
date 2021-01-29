@@ -19,3 +19,9 @@
 
 # Display data as italic
 *aliet*
+
+ # java code
+ import numpy
+ import pandas
+ df=pd.DataFrame({"one":[1,2,3]})
+ df.head()
